@@ -4031,7 +4031,7 @@ the sets used as labels.
 ~ End P4Grammar
 
 The mask (`&&&`) and range (`..`) operators have the same
-precedence; the just above the `?:` operator.
+precedence; they are just above the `?:` operator.
 
 ### Singleton sets { #sec-singleton-set }
 
